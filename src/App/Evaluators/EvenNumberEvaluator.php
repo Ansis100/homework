@@ -1,6 +1,6 @@
 <?php
 
-namespace App;
+namespace App\Evaluators;
 
 /**
  * Evaluates whether digit is even or odd
